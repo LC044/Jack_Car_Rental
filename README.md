@@ -137,20 +137,20 @@
 
 第一次策略迭代：
 
-![](https://gitee.com/shuaikang-zhou/pic-go/raw/master/img/1.png)
+![](https://github.com/LC044/Jack_Car_Rental/blob/master/result/1.png)
 
 第二次策略迭代：
 
-![2](https://gitee.com/shuaikang-zhou/pic-go/raw/master/img/2.png)
+![2](https://github.com/LC044/Jack_Car_Rental/blob/master/result/2.png)
 
 第三次策略迭代：
 
-![3](https://gitee.com/shuaikang-zhou/pic-go/raw/master/img/3.png)
+![3](https://github.com/LC044/Jack_Car_Rental/blob/master/result/3.png)
 
 第四次策略迭代：
 
-![4](https://gitee.com/shuaikang-zhou/pic-go/raw/master/img/4.png)
+![4](https://github.com/LC044/Jack_Car_Rental/blob/master/result/4.png)
 
 第五次策略迭代：（可以发现第五次跟第四次策略相同，所以停止迭代）
 
-![5](https://gitee.com/shuaikang-zhou/pic-go/raw/master/img/5.png)
+![5](https://github.com/LC044/Jack_Car_Rental/blob/master/result/5.png)
